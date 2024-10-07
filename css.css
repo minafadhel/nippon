@@ -1,0 +1,35 @@
+/* Forside */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+header {
+    background-color: hsl(65, 90%, 92%);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+h1, h2 {
+    color: #940000;
+}
+.offer {
+    background-color: #e7f3fe;
+    padding: 20px;
+    border-left: 6px solid #2196F3;
+}
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #c41212;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
